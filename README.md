@@ -1,4 +1,4 @@
-# Hi there Hi there, I'm Shahaf Levi 👋
+# Hi there, I'm Shahaf Levi 👋
 
 Currently working as a full-stack developer and coding instructor at Misterbit Technological Solutions.
 
